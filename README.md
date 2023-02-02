@@ -77,3 +77,7 @@ You know I'd still die for you
 
 ## Sample Code
 `printf("Hello World!");`
+
+## How to install 
+
+`Step 1: Download the zip file or use git clone`
